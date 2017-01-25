@@ -1,0 +1,13 @@
+H:\SRC\JLCSharp\EM1Filing\EM1Filing\bin\Debug\EM1Filing.exe.config
+H:\SRC\JLCSharp\EM1Filing\EM1Filing\bin\Debug\EM1Filing.exe
+H:\SRC\JLCSharp\EM1Filing\EM1Filing\bin\Debug\EM1Filing.pdb
+H:\SRC\JLCSharp\EM1Filing\EM1Filing\obj\Debug\EM1Filing.csprojResolveAssemblyReference.cache
+H:\SRC\JLCSharp\EM1Filing\EM1Filing\obj\Debug\EM1Filing.Properties.Resources.resources
+H:\SRC\JLCSharp\EM1Filing\EM1Filing\obj\Debug\EM1Filing.csproj.GenerateResource.Cache
+H:\SRC\JLCSharp\EM1Filing\EM1Filing\obj\Debug\EM1Filing.exe
+H:\SRC\JLCSharp\EM1Filing\EM1Filing\obj\Debug\EM1Filing.pdb
+H:\SRC\JLCSharp\EM1Filing\EM1Filing\obj\Debug\EM1Filing.EM1FinalFile.resources
+H:\SRC\JLCSharp\EM1Filing\EM1Filing\obj\Debug\EM1Filing.MainEM1Filing.resources
+H:\SRC\JLCSharp\EM1Filing\EM1Filing\bin\Debug\EPPlus.dll
+H:\SRC\JLCSharp\EM1Filing\EM1Filing\bin\Debug\EPPlus.xml
+H:\SRC\JLCSharp\EM1Filing\EM1Filing\obj\Debug\EM1Filing.EM1Trading.resources
